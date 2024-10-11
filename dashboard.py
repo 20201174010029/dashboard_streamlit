@@ -134,4 +134,4 @@ st.plotly_chart(fig_mapa, use_container_width=True)
 # Conclusão e Insights
 st.header("Conclusões")
 st.write("""
-Este dashboard oferece uma visão detalhada sobre o comportamento das taxas ao longo dos anos, separadas por região, analisando acima você poderá criar uma ídeia do que se pode vim ao longo do tempo.""")
+Este dashboard oferece uma visão detalhada sobre o comportamento das taxas ao longo dos anos, separadas por região. analisando acima você poderá criar uma ídeia do que se pode vim ao longo do tempo.""")
